@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Kopelevich_NameFormatter",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "Kopelevich_NameFormatter",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Kopelevich_NameCounter",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "Kopelevich_NameCounter",
+      "args": ""
+    }
+  ]
+}
